@@ -1,4 +1,4 @@
-### Heyy there👋! I am a full-stack developer and a blockchain enthusiast!
+### Heyy there👋! I am a Full-Stack Developer and a Blockchain Enthusiast!
 
 <!--
 **nshk28/nshk28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
